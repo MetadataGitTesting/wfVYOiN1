@@ -1,0 +1,58 @@
+name: edwardo.huels
+description: leverage
+version: 0.2.1.923
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: edwardohuels
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-07-04 21:00:51'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-07-04 21:00:51'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-07-04T21:00:51.935466Z'
+  name: plibMaven
+  version: 8.12.0-SNAPSHOT
+  id: '1006961115'
+  createdAt: '2025-07-04T21:00:51.935466Z'
+  type: plibMaven
+projectDependencies:
+  '218':
+    projectUID: 218
+    projectName: keri.mayert
+    repositoryPath: gitUri=http://gitserver:3000/dev_MpKsFCFQ_team_392/dev_MpKsFCFQ_project_218.git&subPath=
+    version: keri.mayert/6.4.636
+    isDefault: false
+    author: null
+    createdAt: '2025-07-04 21:00:49'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
